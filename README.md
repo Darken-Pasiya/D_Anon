@@ -5,7 +5,7 @@
 
 <p>
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="400" height="2"> <br><br>
-<a href="https://github.com/Anonymous-Zpt/T-banner4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Darken-Pasiya/D-YT?color=blue&style=flat-square"></a>
+<a href="https://github.com/Anonymous-Zpt/T-banner4/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Darken-Pasiya/D_Anon?color=blue&style=flat-square"></a>
 
 ![Tool Visitors](https://visitor-badge.glitch.me/badge?page_id=Darken-Pasiya/D_Anon&left_color=blueviolet&right_color=brightgreen)
 
