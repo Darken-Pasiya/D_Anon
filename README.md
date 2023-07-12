@@ -53,7 +53,7 @@
 
 <a href="https://github.com/Darken-Pasiya"><img title="Github" src="https://img.shields.io/badge/Darken-Pasiya-black?style=for-the-badge&logo=github"></a>
 
-[![Instagram](https://img.shields.io/badge/WHATSAPP-Message-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/94763209104)
+[![Instagram](https://img.shields.io/badge/WHATSAPP-Message-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/9476*******)
 
 <p>
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="400" height="2"> <br><br>
